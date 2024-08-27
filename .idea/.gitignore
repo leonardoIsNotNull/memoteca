@@ -6,3 +6,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/memoteca.iml
+/modules.xml
+/vcs.xml
